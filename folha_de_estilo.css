@@ -1,0 +1,16 @@
+﻿body {
+
+    background-image: url(images/fundo_got.jpg);
+    background-repeat: repeat-x;
+    background-position: left top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 { color: #8B8989; text-align:center; font-size: 60px; font-size: bold;}
+
+h2 { color: #8B8989; text-align:center; font-size: 60px; font-size: bold;}
+
+h3 { color: #FFFFFF; text-align:left; font-size: 40px; font-size: bold;}
+
+p { color: #FFFFFF; font-size: 15px; font-size: bold;}
+
